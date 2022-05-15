@@ -1,8 +1,8 @@
 package StashPackage;
 
-public class stash {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("stash");
-
+        BasicFeatures car=new BasicFeatures();
+       
     }
 }
